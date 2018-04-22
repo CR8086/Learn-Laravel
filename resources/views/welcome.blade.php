@@ -80,7 +80,6 @@
             <div class="content">
                 <div class="title m-b-md">
                     Hello Laravel! - by CR<cr />
-                    GitHub Heroku
                 </div>
 
                 <div class="links">
